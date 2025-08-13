@@ -13,7 +13,7 @@ The objective was to understand internal mechanisms through part modeling, assem
 
 ## Project Media
 **Motion Study Video**  
-[Watch on Google Drive](YOUR-DRIVE-LINK)  
+[Watch on Google Drive](https://drive.google.com/file/d/11VWZF9wQbVChq0dOsji8_PZSf4rzhyLV/view?usp=sharing) 
 
 ## Author
 Vandana(https://github.com/van-danaa)
